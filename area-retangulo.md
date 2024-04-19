@@ -1,7 +1,7 @@
 ## Area Retangulo
 
-A = L²
+A = BxH
 
 #### explicando
 
-lado x lado
+base x altura
