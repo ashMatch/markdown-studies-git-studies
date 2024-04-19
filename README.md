@@ -1,1 +1,1 @@
-"# Markdown and Git studies" 
+# Markdown and Git studies
